@@ -1,0 +1,2 @@
+# gotoolkit
+golang common utils
